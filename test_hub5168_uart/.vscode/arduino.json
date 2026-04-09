@@ -1,0 +1,6 @@
+{
+    "configuration": "EraseFlash=Disable,AutoUploadMode=Enable,StdLibInit=Enable",
+    "board": "realtek:AmebaD:Ai-Thinker_BW16",
+    "port": "/dev/ttyUSB0",
+    "sketch": "test_hub5168_uart.ino"
+}
